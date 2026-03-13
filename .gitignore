@@ -1,0 +1,10 @@
+# Build objects of Android Studio
+build/
+.gradle/
+.idea/
+*.iml
+local.properties
+.DS_Store
+captures/
+.externalNativeBuild
+.cxx

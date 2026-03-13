@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Il nome dell'app viene ora gestito da build.gradle.kts tramite resValue -->
+</resources>
